@@ -1,6 +1,6 @@
 # Archive of problems:
 
-## #1.
+## #1. https://ideone.com/1v7izI
 Pentru elevii clasei a 12-a, profesorul diriginte are nevoie de urmatoarele informatii, pentru a calcula nota la purtare a unui elev: numele, prenumele, numarul total de absente si numarul de absente motivate. Pentru fiecare 10 absente nemotivate, elevul pierde un punct la nota de la purtare. Daca numarul absentelor nemotivate este mai mare decat 50, elevul primeste media 4.
 Realizati un program care calculeaza notele la purtare ale elevilor si afiseaza o lista a elevilor ordonata descrescator dupa media de la purtare.
 
