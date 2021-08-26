@@ -1,3 +1,1 @@
-# Composite Data Type
-
-## Archive of problems
+# Archive of problems
