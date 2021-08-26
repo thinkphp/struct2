@@ -21,6 +21,7 @@ n = 6
          Popescu Dan 12 12
 
 Output:
+
          Ionescu Ana 10
          
          Ionescu Vlad 10
