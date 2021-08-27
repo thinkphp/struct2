@@ -1,3 +1,10 @@
+/*
+Realizati un program pentru evidenta studentilor unei facultati care sa permita alegerea repetata a uneia dintre optiunile de mai jos, pastrandu-se lista studentilor ordonata dupa nume:
+- adaugarea unui student in grupa
+- afisarea informatiilor despre un anumit student, cautat dupa nume
+- listarea tuturor studentilor din grupa.
+Despre fiecare student al unei grupe se cunosc numele studentului, media la sfarsitul unei sesiuni si valoarea bursei.
+*/
 #include <iostream>
 #include <cstring>
 
